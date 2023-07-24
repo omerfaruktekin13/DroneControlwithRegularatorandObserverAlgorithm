@@ -1,9 +1,6 @@
-%%ME 503 FINAL ASSIGNMENT
-%ÖMER FARUK TEKİN
-
 syms f1 f2 fdx fdy m x dx ddx y dy ddy th dth ddth h L g I dFdx dFdy
 
-%Equation of Motion
+%Equations of Motion
 ddx= (-(f1+f2)*sin(th)+fdx)/m;
 ddy= ((f1+f2)*cos(th)-m*g+fdy)/m;
 ddth=((f1-f2)*L+fdx*h*cos(th)+fdy*h*sin(th))/I;
