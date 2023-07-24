@@ -1,4 +1,4 @@
-# Drone Control with Regulator and Observer Algorithm
+# Drone Control with Regulator (LQR) and Observer Algorithm
 
 ## Project Media
 ![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/5bargif.gif "Deneme ")
